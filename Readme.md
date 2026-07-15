@@ -241,7 +241,7 @@ If you find this repository helpful:
 # 📬 Connect With Me
 
 - GitHub: https://github.com/CodeNexus456
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/suraj-kumar-7a104032b/
 
 ---
 
