@@ -1,4 +1,4 @@
-package Parray;
+package Parray1;
 public class JSubArray {
   public static void SubArray(int number[]) {
     // int SubArraySum = 0;

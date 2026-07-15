@@ -1,4 +1,4 @@
-package Parray;
+package Parray1;
 import java.util.*;
 
 public class GbinarySearch {

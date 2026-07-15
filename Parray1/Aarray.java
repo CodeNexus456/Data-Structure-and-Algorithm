@@ -1,4 +1,4 @@
-package Parray;
+package Parray1;
 
 public class Aarray {
   public static void main(String[] args) {
