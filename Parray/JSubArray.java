@@ -1,3 +1,4 @@
+package Parray;
 public class JSubArray {
   public static void SubArray(int number[]) {
     // int SubArraySum = 0;

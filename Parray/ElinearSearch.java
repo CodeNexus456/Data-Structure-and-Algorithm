@@ -1,3 +1,4 @@
+package Parray;
 public class ElinearSearch {
 
   public static int LinearSearch(int number[],int key){

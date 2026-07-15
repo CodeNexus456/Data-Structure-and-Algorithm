@@ -1,3 +1,4 @@
+package Parray;
 
 public class HreverseArray {
   public static int ReverseNumber(int number[]) {
