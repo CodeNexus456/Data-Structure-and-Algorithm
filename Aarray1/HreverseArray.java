@@ -1,4 +1,4 @@
-package Parray1;
+package Aarray1;
 
 public class HreverseArray {
   public static int ReverseNumber(int number[]) {

@@ -1,4 +1,4 @@
-package Parray1;
+package Aarray1;
 public class ElinearSearch {
 
   public static int LinearSearch(int number[],int key){

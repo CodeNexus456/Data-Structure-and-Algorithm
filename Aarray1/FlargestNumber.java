@@ -1,4 +1,4 @@
-package Parray1;
+package Aarray1;
 import java.util.*;;
 
 public class FlargestNumber {

@@ -1,4 +1,4 @@
-package Parray1;
+package Aarray1;
 
 public class Btraversing {
   public static void main(String[] args) {
