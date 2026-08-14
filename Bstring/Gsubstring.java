@@ -1,4 +1,4 @@
-package String;
+package Bstring;
 
 public class Gsubstring {
   // substring

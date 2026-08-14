@@ -1,4 +1,4 @@
-package String;
+package Bstring;
 
 public class basic {
   public static void main(String[]args) {

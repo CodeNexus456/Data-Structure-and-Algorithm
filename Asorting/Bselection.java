@@ -1,4 +1,4 @@
-package Sorting;
+package Asorting;
 
 public class Bselection {
   public static void SelectionSort(int arr[]) {

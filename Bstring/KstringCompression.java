@@ -1,4 +1,4 @@
-package String;
+package Bstring;
 
 public class KstringCompression {
   public static String Compress(String str) {

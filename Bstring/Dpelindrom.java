@@ -1,4 +1,4 @@
-package String;
+package Bstring;
 
 public class Dpelindrom {
   public static boolean isPelindrom(String str) {

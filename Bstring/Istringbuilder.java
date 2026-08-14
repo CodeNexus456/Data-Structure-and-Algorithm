@@ -1,4 +1,4 @@
-package String;
+package Bstring;
 
 public class Istringbuilder {
   public static void main(String[] args) {

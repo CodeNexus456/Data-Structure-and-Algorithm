@@ -1,4 +1,4 @@
-package String;
+package Bstring;
 
 public class Eshoretestpath {
   public static float ShortestDistance(String path) {

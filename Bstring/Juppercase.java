@@ -1,4 +1,4 @@
-package String;
+package Bstring;
 
 public class Juppercase {
   public static String toUpperCase(String str) {
